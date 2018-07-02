@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "847377282980",
+    "firebase_url": "https://dynamicf-32a19.firebaseio.com",
+    "project_id": "dynamicf-32a19",
+    "storage_bucket": "dynamicf-32a19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847377282980:android:0c101f203aa71faa",
+        "android_client_info": {
+          "package_name": "com.example.framgiahangoclong.dynamiclinkfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847377282980-jqdghvnkc2mqifrjdkulmkjtvtoepmh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.framgiahangoclong.dynamiclinkfb",
+            "certificate_hash": "4aea3f7deddb6642fec7d6e6b61bc4c8192ea86b"
+          }
+        },
+        {
+          "client_id": "847377282980-op1q57t0gug5orhm84len012kagii2or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5pBhI6SKLqLr4-bocjtmL1l2_toQb-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847377282980-op1q57t0gug5orhm84len012kagii2or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
